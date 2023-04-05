@@ -1,0 +1,7 @@
+geel
+groen
+blauw
+rood
+gele
+blauwe
+groene
